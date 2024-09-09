@@ -9,7 +9,7 @@ For example, if you've ever worked with ACF hooks, you're probably familiar with
 You can install this package via Composer:
 
 ```bash
-composer require cloak-labs/wp-hook-modifiers
+composer require cloakwp/hook-modifiers
 ```
 
 ## Usage
